@@ -20,6 +20,8 @@ private slots:
 
 private:
     Ui::MainWindow *ui;
+
+private slots:
     void About_Lab1();
 };
 
